@@ -1,4 +1,4 @@
-nclude <stdio.h>
+#include <stdio.h>
 #include <string.h>
 
 // Structure student declared
